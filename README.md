@@ -32,3 +32,6 @@ $ npm start
 
 ## Current Status
 DONE
+
+## Reference
+https://github.com/xiph/rnnoise
